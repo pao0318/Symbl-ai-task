@@ -1,9 +1,10 @@
-# Steps to make a Peanut Butter- Jelly Sandwich
+## Steps to make a Peanut Butter- Jelly Sandwich
 
 ## Requirements:
-  ### 1.Peanut Butter
-  ### 2.Jelly
-  ### 3.Slices of bread
+  #### 1.Peanut Butter
+  #### 2.Jelly
+  #### 3.Slices of bread
+  #### 4.Knife
     
 ## Step 1:
 Using knife spread peanut butter on top of slice of bread.
